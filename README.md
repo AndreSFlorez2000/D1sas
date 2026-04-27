@@ -23,8 +23,6 @@ assets/
 - `js/theme.js`: manejo de tema claro/oscuro.
 - `js/auth.js`: login actual temporal.
 
-
-
 ## Importante
 
 No cambies nombres de IDs del HTML ni nombres de archivos sin actualizar las rutas.
