@@ -82,10 +82,15 @@ Aplicación liviana, sin necesidad de instalación.
 Actualmente el aplicativo permite:
 
 ✔️ Análisis completo de órdenes de compra
+
 ✔️ Visualización de estadísticas claras
+
 ✔️ Cruce con información de D1GO
+
 ✔️ Identificación de alertas operativas
+
 ✔️ Uso directamente desde la web
+
 
 🚧 Próximas mejoras
 Implementación de backend para mayor seguridad
