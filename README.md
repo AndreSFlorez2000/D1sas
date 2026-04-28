@@ -12,13 +12,21 @@ Permite analizar la información de manera rápida, detectar pendientes, identif
 El aplicativo está diseñado para facilitar el análisis operativo del día a día:
 
 ✔️ Cargar archivos Excel de OC y D1GO
+
 ✔️ Identificar órdenes facturadas y pendientes
+
 ✔️ Visualizar valores totales y cantidades
+
 ✔️ Aplicar filtros por tienda, proveedor, supervisor o incidencia
+
 ✔️ Generar estadísticas con gráficos dinámicos
+
 ✔️ Cruzar información entre OC y D1GO
+
 ✔️ Detectar incidencias abiertas con orden de compra
+
 ✔️ Generar alertas por tiempo de ejecución
+
 
 🚨 Sistema de alertas
 
@@ -26,8 +34,11 @@ El aplicativo incluye un control visual basado en tiempos:
 
 Estado	Condición	Acción
 🟢 Normal	Menos de 30 días	Sin novedad
+
 🟠 Seguimiento	Más de 30 días	Revisar
+
 🔴 Crítico	Más de 60 días	Prioridad alta
+
 🔄 ¿Cómo funciona?
 
 El uso del aplicativo es sencillo:
