@@ -1,6 +1,5 @@
 :
-
-🚀 Control OC + D1GO
+ Control OC MTTO
 🧠 Descripción
 
 Este aplicativo web fue desarrollado como una herramienta de apoyo para el equipo de mantenimiento, con el fin de tener un control claro y centralizado sobre las órdenes de compra (OC) y su relación con las incidencias registradas en D1GO.
