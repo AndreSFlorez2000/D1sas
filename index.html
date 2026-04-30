@@ -5992,6 +5992,29 @@ document.addEventListener('DOMContentLoaded', () => {
   authEmail.focus();
 })();
 </script>
+<script>
+function enviarDatosN8N(datos) {
 
+  fetch("https://andresflorez13.app.n8n.cloud/webhook/analizar-d1go", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify(datos)
+  })
+  .then(res => res.json())
+  .then(data => {
+    console.log("Respuesta n8n:", data);
+
+    // Aquí puedes mostrarlo en tu UI
+    alert("Duplicados: " + data.total_duplicados);
+  })
+  .catch(err => {
+    console.error("Error:", err);
+    alert("Error conectando con n8n");
+  });
+
+}
+</script>
 </body>
 </html>
